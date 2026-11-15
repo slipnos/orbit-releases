@@ -1,7 +1,7 @@
 {
-  "notes": "Screenshots are more reliable: Orbit now finds the right Roblox window and tries more ways to capture it. If one still fails, it tells you why.",
-  "sha256": "3bcdba503456fbd83443119491dd63863f6e68c8483e90a0bf2ed600144d0c22",
-  "sig": "qbpbB+NHJ42MjlWbaYijnCnkOlZUKz3pYaWpn34w/uMZxZdR2jySbM/5Tb4PnGA8Zxw75pIxAxZheGz5lzXtAQ==",
-  "size": 8288256,
-  "version": "1.9.1"
+  "notes": "Fixes screenshots coming out blank: Orbit now captures the Roblox window you're actually playing in.",
+  "sha256": "db286009f52ebb2cb2325ad1a192029d9d9d7243112528c6bb430ca6c07e3d3a",
+  "sig": "WbS9A6aZLsEvoql7Gxk2Se7zuK4CLDBCccqBHefNVI/yyCf2cK6Vu2ZHCBAFz1oyIqaKEUllja0NrmxcUzo2BQ==",
+  "size": 8289792,
+  "version": "1.9.2"
 }

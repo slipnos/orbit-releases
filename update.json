@@ -1,7 +1,7 @@
 {
-  "notes": "The hint that pops up when you hover over something no longer has the page's text showing through it.",
-  "sha256": "4df5502339bff81fd94641043a8d26cab83c14af462b602c8b2da62d128aeeaa",
-  "sig": "lIAymG1Qu5wkqJrAMjcini+1iQFdmI2n3Lv2EmUsLEXrceLhB2w+7PHQf3SvMoWQUpT/Dn8fHSjZiYi6fdnrAA==",
-  "size": 8304640,
-  "version": "1.9.6"
+  "notes": "The Dynamic Island now animates smoothly at about 60 frames a second (it ran at about 30 before).",
+  "sha256": "db5eef7df3092c5d1af750479333cdd268ce1a9f34c53c99e062cc748b30de20",
+  "sig": "DtMlOPt/2DaFdTi6nLlBxuJ6kh44BLrl3ymay0C2gcTynS/k3ioiMxyhjehYmK+2KajpoOuV7OBTTc9BkJRLDw==",
+  "size": 8306176,
+  "version": "1.9.7"
 }

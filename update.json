@@ -1,7 +1,7 @@
 {
-  "notes": "Starts with Windows by default, tooltips, and an update button in the sidebar.",
-  "sha256": "3112de46c74e9233d9d760e39bf34ccb908d29e968c30522c1280cccd7853345",
-  "sig": "MN+JrzWKvih95PdXWm9k+QtNEXfm7K8210nAvJb3ZHoaCf4ncebw5gcyngOq+8wbgycuIBX2wfx2QREmcJpSAg==",
-  "size": 8140288,
-  "version": "1.8.1"
+  "notes": "New Screenshots tab: press F12 while you play to save the Roblox window into a folder for that game, see them all in a gallery, and change the key or the save folder. Roblox's own screenshots get sorted into the same folders. The launch screen's moon now spins smoothly.",
+  "sha256": "62fef77b3136ee8c27100f9b91e42acff0012d146c880d508a39ac179076d1f8",
+  "sig": "1Xt5Opx1zRZandRXbIOS7eGYFBsF4eB/hxSwxVhP6yKVT1pYI/RX7vi0oaSns2tmspIzxaOee7k4pBhWk+r0AQ==",
+  "size": 8284160,
+  "version": "1.9"
 }

@@ -1,7 +1,7 @@
 {
-  "notes": "Screenshots now work in Roblox: Orbit captures the game the same way OBS and the Snipping Tool do, so it no longer comes out black.",
-  "sha256": "93582ebfa11ce978d955dff01d4ef6f1a9b5866bdf236fb0785cc10cbc22dc89",
-  "sig": "72/9DOemMcN27+bIFy2NBwd0As36f9vra2B++TvApEJznJ5Y5nz6BpBxQ5hnsfOBwbSXwIOAB+C4vzw+HHL8CA==",
+  "notes": "Fixes screenshots: Orbit now captures the Roblox window instead of saying it couldn't.",
+  "sha256": "4f2412eccdac7d7d8e32a39a9d31a2cd680075089c40815bb8bdd6648d9fcaaf",
+  "sig": "jr5c3ndaEK0dVii1GOYQWXRAOvRILvV7jdXZNdq235okVFC6Qeem43jFA8vgMdUOwoSiwdTBwuuOxzidN2cHAA==",
   "size": 8303104,
-  "version": "1.9.3"
+  "version": "1.9.4"
 }

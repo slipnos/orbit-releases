@@ -1,7 +1,7 @@
 {
-  "notes": "Orbit now updates itself.",
-  "sha256": "654df372eac28e4392582125891f831dfeba1029e1a05e7cad18df81de7878a7",
-  "sig": "t22cL6U6FDSP6tCRwFjYXJeQ/17oL7HJQnhox4caOskboSrLw4Jd7RvgSUk+3CVzdHggdbKFqGzLU5lKbSr5CQ==",
-  "size": 8093696,
-  "version": "1.7.1"
+  "notes": "Game pages, start with Windows, and accent colours.",
+  "sha256": "90f9862454ab441a5b82daf2c30cfd9ec8e04f9c551f87f404ed4d1dbd02d7a7",
+  "sig": "2fuDUSdPrI5dFJYL2/7VdvsMoXt+t0530nfGkQ60g4x0FN8xEClMen7NiBYXGYH9DEZTHjg+WQSe51/gse1wAw==",
+  "size": 8122880,
+  "version": "1.8"
 }

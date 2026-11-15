@@ -1,7 +1,7 @@
 {
-  "notes": "New Screenshots tab: press F12 while you play to save the Roblox window into a folder for that game, see them all in a gallery, and change the key or the save folder. Roblox's own screenshots get sorted into the same folders. The launch screen's moon now spins smoothly.",
-  "sha256": "62fef77b3136ee8c27100f9b91e42acff0012d146c880d508a39ac179076d1f8",
-  "sig": "1Xt5Opx1zRZandRXbIOS7eGYFBsF4eB/hxSwxVhP6yKVT1pYI/RX7vi0oaSns2tmspIzxaOee7k4pBhWk+r0AQ==",
-  "size": 8284160,
-  "version": "1.9"
+  "notes": "Screenshots are more reliable: Orbit now finds the right Roblox window and tries more ways to capture it. If one still fails, it tells you why.",
+  "sha256": "3bcdba503456fbd83443119491dd63863f6e68c8483e90a0bf2ed600144d0c22",
+  "sig": "qbpbB+NHJ42MjlWbaYijnCnkOlZUKz3pYaWpn34w/uMZxZdR2jySbM/5Tb4PnGA8Zxw75pIxAxZheGz5lzXtAQ==",
+  "size": 8288256,
+  "version": "1.9.1"
 }

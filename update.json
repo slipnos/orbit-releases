@@ -1,7 +1,7 @@
 {
-  "notes": "Fixes screenshots: Orbit now captures the Roblox window instead of saying it couldn't.",
-  "sha256": "4f2412eccdac7d7d8e32a39a9d31a2cd680075089c40815bb8bdd6648d9fcaaf",
-  "sig": "jr5c3ndaEK0dVii1GOYQWXRAOvRILvV7jdXZNdq235okVFC6Qeem43jFA8vgMdUOwoSiwdTBwuuOxzidN2cHAA==",
-  "size": 8303104,
-  "version": "1.9.4"
+  "notes": "You can now turn the screenshot key off on the Screenshots page. The Friends tab is gone for now.",
+  "sha256": "df2257d216562f8f7cd5f00f5225777fc89823c19ce35a7cfb55202a27b64c5a",
+  "sig": "kQpubggR5fY9jHa6mXx1G4BGOYaPXNTP01C+xNUBttJDDDqtOxLphUO//L+bYELSm8XDMsX8xNINCtVuiJ+mDA==",
+  "size": 8304128,
+  "version": "1.9.5"
 }

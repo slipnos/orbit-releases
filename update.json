@@ -1,7 +1,7 @@
 {
-  "notes": "Game pages, start with Windows, and accent colours.",
-  "sha256": "90f9862454ab441a5b82daf2c30cfd9ec8e04f9c551f87f404ed4d1dbd02d7a7",
-  "sig": "2fuDUSdPrI5dFJYL2/7VdvsMoXt+t0530nfGkQ60g4x0FN8xEClMen7NiBYXGYH9DEZTHjg+WQSe51/gse1wAw==",
-  "size": 8122880,
-  "version": "1.8"
+  "notes": "Starts with Windows by default, tooltips, and an update button in the sidebar.",
+  "sha256": "3112de46c74e9233d9d760e39bf34ccb908d29e968c30522c1280cccd7853345",
+  "sig": "MN+JrzWKvih95PdXWm9k+QtNEXfm7K8210nAvJb3ZHoaCf4ncebw5gcyngOq+8wbgycuIBX2wfx2QREmcJpSAg==",
+  "size": 8140288,
+  "version": "1.8.1"
 }

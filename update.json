@@ -1,7 +1,7 @@
 {
-  "notes": "Island animations no longer stutter",
-  "sha256": "4cc85058499e6e23395075005cb0fc8751e0bc0af858f85fe2c16b2bfaaaa63b",
-  "sig": "0diT0EeSlrVxarZkNetOVzncgWp46MYpKPiw4UxUe7kz7yPuP5RCgaySRexHRG60FSy/K1BxYYJDPtUMcd+9DA==",
-  "size": 8328704,
-  "version": "1.9.13"
+  "notes": "Music in the island (play, pause, skip), and your Roblox avatar on Home",
+  "sha256": "49a8e46f8500e84fa67adc0af8b60e9738eddf6e01eede0b32f2e165d6237da6",
+  "sig": "rhcSd7qzqhsm5HQpscxDfOa4hnQFCNa3WseI29Mgb1hxLpl/4KCnB8PqVjVeDkLc9/tNV1xsszYrGoTVjwTkAg==",
+  "size": 8370176,
+  "version": "1.10.0"
 }

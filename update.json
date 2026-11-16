@@ -1,7 +1,7 @@
 {
-  "notes": "Picture-in-picture: a live view of Roblox when you alt-tab out of a game",
-  "sha256": "582775bc2d9b0d134a3d5ee1b014727b02e7a341c1acfe9dc964f6799f6a0607",
-  "sig": "OXqLJpRMNA+DzL54nXQgdQhWCcWACcOKtk32aaZ8ZD6jgY8wUCwqjqcC68U9APVQ0zTTrPqrUwwuLSEeGoUvCQ==",
-  "size": 8380416,
-  "version": "1.11.0"
+  "notes": "Settings has room again: it scrolls",
+  "sha256": "9ca3414065c613b920b8f3a306bfc1f23fbb14b7f83eb68bfd5edfbd2fee169d",
+  "sig": "rDfausiFe7mvv1TndLTo57xQMYbpie9HG4WDal5FAYk7GAmQk9IW8SLGezfHbA36iGjx2zwZwhlW9lz9HXehDg==",
+  "size": 8385536,
+  "version": "1.11.1"
 }

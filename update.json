@@ -1,7 +1,7 @@
 {
-  "notes": "The Dynamic Island no longer disappears behind Roblox when you're playing full screen.",
-  "sha256": "d76ed89d184dc91585fa8cb4939a81589e5b2e4d1e574027d6c528285ed753ff",
-  "sig": "k3H6rTNj1g6lm2JNinWWIq/xS7554tO7T5UdoPdDfJeWHmwxXuhgM0C3ErYDH3QOuLnAUuBzGMx+3l4cJEWqDg==",
-  "size": 8306176,
-  "version": "1.9.8"
+  "notes": "Live FPS and ping in the island while you play",
+  "sha256": "1e82f28f29b34a22e18ad0978a3b30cf62b586135c23edb81f7ee7eb815c41cd",
+  "sig": "mc4LT1Kk2Q+6/8rSZkGLfycssOeTNednKs7xfCCBLEDPPfsljMIIrHsTzukJJ7DSjmtJaYHOVqFyi7D02Ij8BA==",
+  "size": 8314880,
+  "version": "1.9.9"
 }

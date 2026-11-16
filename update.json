@@ -1,7 +1,7 @@
 {
-  "notes": "Smoother island hover, cleaner rounded corners on the launch screen",
-  "sha256": "35ca78ca3064dd46635e3628face98dc2691b0d3da2a2165fcc8e1fe4191b512",
-  "sig": "+GtwWiqmnhCSS0m/hWY0a2od4UBMHu97AXFrIrrJf8qK+PHMb6cftUE+wbwQ2xuwjPH9BWjtq5dj7ke1X2s5BA==",
-  "size": 8322560,
-  "version": "1.9.10"
+  "notes": "Smoother island animations",
+  "sha256": "ea9dac7084118ddcce2fb715a7c23672ff8df30d9fcab905a5cbd17aa35f51d8",
+  "sig": "Qs7L6p6G2DCfBU3/f5002E+Z9KPsBp+/UAyIf8iBYj7piT4qe59dH/WyIaqTMrdlEWGOFAWc7ulg6EgGt6x+CA==",
+  "size": 8322048,
+  "version": "1.9.11"
 }

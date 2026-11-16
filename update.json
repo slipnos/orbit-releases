@@ -1,7 +1,7 @@
 {
-  "notes": "Island animations no longer lag",
-  "sha256": "8ed05e98517bafb795f0da39816fecf34df2c8a1116b97916e5c6c5fab57c2f6",
-  "sig": "ykcTSaaQC4MHQVHPCqCdA7cFpHE3tchcycjHhI8Af3CICDodjesqJ9yEw6uga6PH9S+wSz0XpGpSBFcmm9BuDQ==",
-  "size": 8328192,
-  "version": "1.9.12"
+  "notes": "Island animations no longer stutter",
+  "sha256": "4cc85058499e6e23395075005cb0fc8751e0bc0af858f85fe2c16b2bfaaaa63b",
+  "sig": "0diT0EeSlrVxarZkNetOVzncgWp46MYpKPiw4UxUe7kz7yPuP5RCgaySRexHRG60FSy/K1BxYYJDPtUMcd+9DA==",
+  "size": 8328704,
+  "version": "1.9.13"
 }

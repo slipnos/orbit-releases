@@ -1,7 +1,7 @@
 {
-  "notes": "Live FPS and ping in the island while you play",
-  "sha256": "1e82f28f29b34a22e18ad0978a3b30cf62b586135c23edb81f7ee7eb815c41cd",
-  "sig": "mc4LT1Kk2Q+6/8rSZkGLfycssOeTNednKs7xfCCBLEDPPfsljMIIrHsTzukJJ7DSjmtJaYHOVqFyi7D02Ij8BA==",
-  "size": 8314880,
-  "version": "1.9.9"
+  "notes": "Smoother island hover, cleaner rounded corners on the launch screen",
+  "sha256": "35ca78ca3064dd46635e3628face98dc2691b0d3da2a2165fcc8e1fe4191b512",
+  "sig": "+GtwWiqmnhCSS0m/hWY0a2od4UBMHu97AXFrIrrJf8qK+PHMb6cftUE+wbwQ2xuwjPH9BWjtq5dj7ke1X2s5BA==",
+  "size": 8322560,
+  "version": "1.9.10"
 }

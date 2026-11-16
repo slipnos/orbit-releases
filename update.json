@@ -1,7 +1,7 @@
 {
-  "notes": "Smoother island animations",
-  "sha256": "ea9dac7084118ddcce2fb715a7c23672ff8df30d9fcab905a5cbd17aa35f51d8",
-  "sig": "Qs7L6p6G2DCfBU3/f5002E+Z9KPsBp+/UAyIf8iBYj7piT4qe59dH/WyIaqTMrdlEWGOFAWc7ulg6EgGt6x+CA==",
-  "size": 8322048,
-  "version": "1.9.11"
+  "notes": "Island animations no longer lag",
+  "sha256": "8ed05e98517bafb795f0da39816fecf34df2c8a1116b97916e5c6c5fab57c2f6",
+  "sig": "ykcTSaaQC4MHQVHPCqCdA7cFpHE3tchcycjHhI8Af3CICDodjesqJ9yEw6uga6PH9S+wSz0XpGpSBFcmm9BuDQ==",
+  "size": 8328192,
+  "version": "1.9.12"
 }

@@ -1,7 +1,7 @@
 {
-  "notes": "Music in the island (play, pause, skip), and your Roblox avatar on Home",
-  "sha256": "49a8e46f8500e84fa67adc0af8b60e9738eddf6e01eede0b32f2e165d6237da6",
-  "sig": "rhcSd7qzqhsm5HQpscxDfOa4hnQFCNa3WseI29Mgb1hxLpl/4KCnB8PqVjVeDkLc9/tNV1xsszYrGoTVjwTkAg==",
-  "size": 8370176,
-  "version": "1.10.0"
+  "notes": "Picture-in-picture: a live view of Roblox when you alt-tab out of a game",
+  "sha256": "582775bc2d9b0d134a3d5ee1b014727b02e7a341c1acfe9dc964f6799f6a0607",
+  "sig": "OXqLJpRMNA+DzL54nXQgdQhWCcWACcOKtk32aaZ8ZD6jgY8wUCwqjqcC68U9APVQ0zTTrPqrUwwuLSEeGoUvCQ==",
+  "size": 8380416,
+  "version": "1.11.0"
 }

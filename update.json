@@ -1,7 +1,7 @@
 {
-  "notes": "Settings has room again: it scrolls",
-  "sha256": "9ca3414065c613b920b8f3a306bfc1f23fbb14b7f83eb68bfd5edfbd2fee169d",
-  "sig": "rDfausiFe7mvv1TndLTo57xQMYbpie9HG4WDal5FAYk7GAmQk9IW8SLGezfHbA36iGjx2zwZwhlW9lz9HXehDg==",
-  "size": 8385536,
-  "version": "1.11.1"
+  "notes": "Clean rounded corners on notifications",
+  "sha256": "bbcbebfa915fc1639cc24fa3a7bffc122ba39458cd368f88eb9211f59fe5be9c",
+  "sig": "Q/A+Fe9ACsH0B3RfiWsKGkSYlmFQPGcOFHWBQqCBicv+pkCV5oYuAT692xXD46BWLWKE3+AGQ/e3o4JlU9qRBw==",
+  "size": 8387584,
+  "version": "1.11.2"
 }

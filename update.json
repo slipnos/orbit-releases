@@ -1,7 +1,7 @@
 {
-  "notes": "Fixes Orbit glitching after running a long time, and windows jumping to the top-left corner",
-  "sha256": "c5cf66fc5cb5f8893886cf00f6bd5940d12566b77b7667a35764c2280378f473",
-  "sig": "1I3QgNxoFP7mS5zn+vxAWxYJEfEb8kORKi5YtmgS/AqAeLJHGJW4I+9bjX3GXbyDsw1njPFMNfi7fGMJzwKlBA==",
-  "size": 8398336,
-  "version": "1.11.4"
+  "notes": "Orbit on your phone: scan the QR code in Settings",
+  "sha256": "b7ef5610c2f0448783eaa8617a44bf7d04c4b48f63cf618a76a42819de30baf3",
+  "sig": "FS5XPapjv1tzNLnddvuWDBOqKZbZUXaibwX27bFFBq+YkQL4M7d0n+3JJ4kQMTLngIdsXYvoWPyl1ulcD8J4Dw==",
+  "size": 9018880,
+  "version": "1.12.0"
 }

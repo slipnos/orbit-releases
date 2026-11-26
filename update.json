@@ -1,7 +1,7 @@
 {
-  "notes": "Clean rounded corners on notifications",
-  "sha256": "bbcbebfa915fc1639cc24fa3a7bffc122ba39458cd368f88eb9211f59fe5be9c",
-  "sig": "Q/A+Fe9ACsH0B3RfiWsKGkSYlmFQPGcOFHWBQqCBicv+pkCV5oYuAT692xXD46BWLWKE3+AGQ/e3o4JlU9qRBw==",
-  "size": 8387584,
-  "version": "1.11.2"
+  "notes": "Rounded corners on picture-in-picture",
+  "sha256": "13c75deaa5abcc331ba5bd9b4a6ae43e6e69526aa6a39d201722569171a6c75b",
+  "sig": "UUv9KUjJtyQYxoBEoQBKxDhxAdGnRxlElDL1praAmIpqsVQ/17j2WAGf8dMHUdAMCP/oicJOc9u2LL8OW8JcCA==",
+  "size": 8393216,
+  "version": "1.11.3"
 }

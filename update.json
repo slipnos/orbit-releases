@@ -1,7 +1,7 @@
 {
-  "notes": "Rounded corners on picture-in-picture",
-  "sha256": "13c75deaa5abcc331ba5bd9b4a6ae43e6e69526aa6a39d201722569171a6c75b",
-  "sig": "UUv9KUjJtyQYxoBEoQBKxDhxAdGnRxlElDL1praAmIpqsVQ/17j2WAGf8dMHUdAMCP/oicJOc9u2LL8OW8JcCA==",
-  "size": 8393216,
-  "version": "1.11.3"
+  "notes": "Fixes Orbit glitching after running a long time, and windows jumping to the top-left corner",
+  "sha256": "c5cf66fc5cb5f8893886cf00f6bd5940d12566b77b7667a35764c2280378f473",
+  "sig": "1I3QgNxoFP7mS5zn+vxAWxYJEfEb8kORKi5YtmgS/AqAeLJHGJW4I+9bjX3GXbyDsw1njPFMNfi7fGMJzwKlBA==",
+  "size": 8398336,
+  "version": "1.11.4"
 }

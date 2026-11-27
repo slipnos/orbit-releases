@@ -1,7 +1,7 @@
 {
-  "notes": "Roomier Settings, resizable picture-in-picture",
-  "sha256": "0c932587f3fe3acda538737b629686d88704d274493130f41915636ccecbd818",
-  "sig": "BTEy7k7MKLTuwcZGx2K22b1cuIiNQKKjtD7QLB2WEZEbmvBPF+n/0HSc5C860+VSFm1xCsnW14aLuNjjz0z5Dw==",
-  "size": 9697280,
-  "version": "1.13.7"
+  "notes": "The island gets out of the way when your cursor is near the top",
+  "sha256": "a3afbf0e6687aa73d0a69a59e73e8b6111e2ce54a565244bbbf697beb659580b",
+  "sig": "J9nc2Bl4p+szN4eGa+TUDpSJkrHEKgVWEXBv/vE8FjbaajTmulLvW4bKcZLGsxZynW+q7LzFCdYoTazMNe8/Cw==",
+  "size": 9700352,
+  "version": "1.13.8"
 }

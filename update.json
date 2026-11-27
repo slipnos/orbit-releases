@@ -1,7 +1,7 @@
 {
-  "notes": "Resizable controller overlay",
-  "sha256": "4dfd1f3a00cb1a0dfce473d1b4c120e202e9af15acd646508826932ec57fd997",
-  "sig": "e+TQT1U8ZR9GkXdBkqDusjXZKcVULdIMgDB6pjf4DupYiZVVsK7NlHJR5W1wppDXdr0B1czaF2giV0jYfAqoAQ==",
-  "size": 9691648,
-  "version": "1.13.6"
+  "notes": "Roomier Settings, resizable picture-in-picture",
+  "sha256": "0c932587f3fe3acda538737b629686d88704d274493130f41915636ccecbd818",
+  "sig": "BTEy7k7MKLTuwcZGx2K22b1cuIiNQKKjtD7QLB2WEZEbmvBPF+n/0HSc5C860+VSFm1xCsnW14aLuNjjz0z5Dw==",
+  "size": 9697280,
+  "version": "1.13.7"
 }

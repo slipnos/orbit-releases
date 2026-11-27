@@ -1,7 +1,7 @@
 {
-  "notes": "Hover the faint island for half a second to use it",
-  "sha256": "67a5c705261c623583229e61095f2585370acc952c802a0ab7e9271bb453b8e7",
-  "sig": "VWNiOfJ31WP/oF6iK8Ql+jb2/kexcu8mcyoZxnGoPDa77bcMYrDfspAHsOod27UuW2/LjLeCcY2my/U52syMBA==",
-  "size": 9703424,
-  "version": "1.13.12"
+  "notes": "Hovering the faint island brings it back reliably",
+  "sha256": "2f945d485b12bfd27fdfe21f87d6097795c4fa17cfc703d81047c0d728b73f89",
+  "sig": "slT+NR6OIAzIoTVCmZkc/d+wVEYM2Ad83PAx7cNOTJKcNTxC952lsDj7I8tWtfmyRtN7a2YbqInPzIVAYZtzDw==",
+  "size": 9702912,
+  "version": "1.13.13"
 }

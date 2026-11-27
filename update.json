@@ -1,7 +1,7 @@
 {
-  "notes": "The island stays when you hover it",
-  "sha256": "983a83d9625125d2147bb0469670c4e28075a2cf6653e67db24db5bcd0f83d21",
-  "sig": "6xtK0giNQ3I7qHd89fG4MrAx/+XEwZ9Lfkp5rdMMrx9rgSHCSMJ5uWdM00CPiaQejhTs/IyTvR38r5ykKKIpBQ==",
-  "size": 9701376,
-  "version": "1.13.9"
+  "notes": "The island stays out of your way at the top of the screen",
+  "sha256": "35605aae06babb10109dcd37a71090dae8fcde19d94c1dedbeab04bf581a950c",
+  "sig": "Wl2Ql+yvQjpGYN8VG75xuoc7PqcCOzV2fnXnY6iV7oRn3ACBzDPxHeSbB0vizAXeclXFqz9I9lkuMFuZKIbkDQ==",
+  "size": 9703424,
+  "version": "1.13.10"
 }

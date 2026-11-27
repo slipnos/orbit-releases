@@ -1,7 +1,7 @@
 {
-  "notes": "Controller overlay, and smooth picture-in-picture corners",
-  "sha256": "78f8ba86176994ea8649c7bf8e3aa9d2c2e03c9b886b175c31672c1dbf894823",
-  "sig": "uAVTOhiSnHZrdgw2BRbEsKtKb8y66MK7F+mBB1D3FEGGreqlsBAZGXXpsXzqEgBz0xcf3pUiqPwKfveK4jU5Dw==",
-  "size": 9038848,
-  "version": "1.13.0"
+  "notes": "A new, realistic controller overlay",
+  "sha256": "e46450e282ade788ab48c02a205a91e3bced8346799613529a33a4fae67573a1",
+  "sig": "angdm4ReDjNzx743N4724FOwqe5Wdz7NXzAA5biq2YtCq6BU8GEeM+cN4rlZme/5yGaP+ihd85H/toIGXRW1AQ==",
+  "size": 9079808,
+  "version": "1.13.1"
 }

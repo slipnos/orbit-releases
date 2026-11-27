@@ -1,7 +1,7 @@
 {
-  "notes": "Hovering the faint island brings it back reliably",
-  "sha256": "2f945d485b12bfd27fdfe21f87d6097795c4fa17cfc703d81047c0d728b73f89",
-  "sig": "slT+NR6OIAzIoTVCmZkc/d+wVEYM2Ad83PAx7cNOTJKcNTxC952lsDj7I8tWtfmyRtN7a2YbqInPzIVAYZtzDw==",
+  "notes": "Island fixes: no outline box, clicks keep it open",
+  "sha256": "13f64d087419db1bf57073b98ed6ed8f9aff54863b95e8e4f4efbaa417393dcf",
+  "sig": "Do7oxu/nG61NJaNDtAn1SHxD9RclNaFFI6rNTU4jOne4UMlgIkpTHywru+WP84IQm8kNr+DUK2/Ui5c5mNT3DQ==",
   "size": 9702912,
-  "version": "1.13.13"
+  "version": "1.13.14"
 }

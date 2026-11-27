@@ -1,7 +1,7 @@
 {
-  "notes": "A new controller overlay design",
-  "sha256": "27e3e8b339ccbb310ffcd35363d13c102f86ea3afcf7383d8eff095d5a76dc29",
-  "sig": "tqZ6irY6uNzrPbG6eks8cKt1HlUTTukxuaL2sqd7/apMc1xk8fO8Vj6WdC2EfGSVm4VTFjY5cJ+Uk+pkVNhnBQ==",
-  "size": 9668096,
-  "version": "1.13.4"
+  "notes": "Controller overlay works with PlayStation controllers",
+  "sha256": "08dbbf9c3eaf788b7e8c52653f1d17c154ef3f2ee6128dfe8a2866454bd80aa6",
+  "sig": "wUg4W2P0GCmvPWe5YYMgai9+cR4MY88BT1jxB8Y/dFlDl8cLA4a+uqRmH4uyfULfGB0dzeBx02wMs++GxzLdAA==",
+  "size": 9677312,
+  "version": "1.13.5"
 }

@@ -1,7 +1,7 @@
 {
-  "notes": "Orbit on your phone: scan the QR code in Settings",
-  "sha256": "b7ef5610c2f0448783eaa8617a44bf7d04c4b48f63cf618a76a42819de30baf3",
-  "sig": "FS5XPapjv1tzNLnddvuWDBOqKZbZUXaibwX27bFFBq+YkQL4M7d0n+3JJ4kQMTLngIdsXYvoWPyl1ulcD8J4Dw==",
-  "size": 9018880,
-  "version": "1.12.0"
+  "notes": "Controller overlay, and smooth picture-in-picture corners",
+  "sha256": "78f8ba86176994ea8649c7bf8e3aa9d2c2e03c9b886b175c31672c1dbf894823",
+  "sig": "uAVTOhiSnHZrdgw2BRbEsKtKb8y66MK7F+mBB1D3FEGGreqlsBAZGXXpsXzqEgBz0xcf3pUiqPwKfveK4jU5Dw==",
+  "size": 9038848,
+  "version": "1.13.0"
 }

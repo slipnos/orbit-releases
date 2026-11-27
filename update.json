@@ -1,7 +1,7 @@
 {
-  "notes": "A redesigned controller overlay",
-  "sha256": "afcab8cd7374498ca06e14ca654989c7d786c4b29c80de6d54ad39f47eac4cf8",
-  "sig": "s4K67wuDdXa/O1cLObxwAUOGxjaQw9uQf0nRuf9GsiRPw6xoOyXLRuUXPEiJo2SCjva8Wyw1J/OrasmBMqOiDg==",
-  "size": 9084928,
-  "version": "1.13.2"
+  "notes": "A new look for the controller overlay",
+  "sha256": "e1cd4afa18aea348b85fb3aad8eb3bd61a3c3a1f2e1bdecbb43f9d5ba1998bfd",
+  "sig": "/vZA4hg5ZsUdE34mV1xnA+9BEUgdlSsay81i06CjA28HT2R6VQmqHCpcMq7tipe/J2iyLcqFWiEQWcahubc9Ag==",
+  "size": 9083392,
+  "version": "1.13.3"
 }

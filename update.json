@@ -1,7 +1,7 @@
 {
-  "notes": "The island goes faint near the top of the screen",
-  "sha256": "44d60dc257bf27941fa615a4919fb87d6019f40451f90c89c5ab570008c9e93c",
-  "sig": "YfIRQ/+gnS1HHpgAbv8u6xbba8+IThxVGznGaMq/kmBBzkaJyoTyHjWuFm+N50XlKuVxHQbAEpbjYFGhXa1NCA==",
+  "notes": "Hover the faint island for half a second to use it",
+  "sha256": "67a5c705261c623583229e61095f2585370acc952c802a0ab7e9271bb453b8e7",
+  "sig": "VWNiOfJ31WP/oF6iK8Ql+jb2/kexcu8mcyoZxnGoPDa77bcMYrDfspAHsOod27UuW2/LjLeCcY2my/U52syMBA==",
   "size": 9703424,
-  "version": "1.13.11"
+  "version": "1.13.12"
 }

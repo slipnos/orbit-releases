@@ -1,7 +1,7 @@
 {
-  "notes": "The island stays out of your way at the top of the screen",
-  "sha256": "35605aae06babb10109dcd37a71090dae8fcde19d94c1dedbeab04bf581a950c",
-  "sig": "Wl2Ql+yvQjpGYN8VG75xuoc7PqcCOzV2fnXnY6iV7oRn3ACBzDPxHeSbB0vizAXeclXFqz9I9lkuMFuZKIbkDQ==",
+  "notes": "The island goes faint near the top of the screen",
+  "sha256": "44d60dc257bf27941fa615a4919fb87d6019f40451f90c89c5ab570008c9e93c",
+  "sig": "YfIRQ/+gnS1HHpgAbv8u6xbba8+IThxVGznGaMq/kmBBzkaJyoTyHjWuFm+N50XlKuVxHQbAEpbjYFGhXa1NCA==",
   "size": 9703424,
-  "version": "1.13.10"
+  "version": "1.13.11"
 }
